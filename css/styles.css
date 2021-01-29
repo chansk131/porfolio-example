@@ -145,7 +145,7 @@ nav a:hover {
 #left-pane {
   background-color: #e6dacd;
   height: auto;
-  min-height: 952px;
+  min-height: 700px;
 }
 
 #detail {
